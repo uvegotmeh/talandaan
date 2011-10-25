@@ -1,0 +1,169 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: arial; 
+    background-image: url(../images/blue.jpg);
+}
+.header_resize {
+	margin:30px auto 0;
+	padding:0;
+	width:500px;
+}
+.header {
+	margin:0;
+	padding:0;
+}
+
+.logo {
+	width:341px;
+	margin:0 auto;
+        background: #f0f0f0;
+	padding:0;
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;     
+}
+.logo  h1 {
+	margin:0;
+	padding:20px 0 24px 20px;
+        color:#333300;
+	font:normal 40px/1.2em Arial, Helvetica, sans-serif;
+}
+h1 a, h1 a:hover {
+	color:#333300;
+	text-decoration:none;
+}
+span{
+    color:#333300;
+}
+cufon{
+    color:#333300;
+}
+small{
+    color:#333300;
+    font-size: 12px;
+}
+
+#login_form{
+    width: 300px;
+    background: #f0f0f0 ;
+    border: 1px solid white;
+    margin: 50px auto 0;
+    padding: 1em;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+legend{
+   color: #fff;
+}
+
+h1, h2, h3, h4, h5{
+    margin-top: 0;
+    font-family: arial ;
+    text-align: center;
+}
+
+input[type=text], input[type=password]{
+    display: block;
+    margin: 0 0 1em 0;
+    width: 280px;
+    border: 5px;
+    -moz-border-radius: 1px;
+    -webkit-border-radius: 1px;
+    padding: 1em;
+}
+input[type=submit], form a{
+    border: none;
+    margin-right: 1em;
+    padding: 6px;
+    text-decoration: none;
+    font-size: 12px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    background: #0070a3;
+    color: white;
+    -moz-box-shadow: 0 1px 0 white;
+    -webkit-box-shadow: 0 1px 0 white;
+}
+input[type=submit]:hover, form a:hover{
+    background: #143270;
+    cursor: pointer;
+}
+
+.error{
+    color: #f0f0f0;
+     font-size: 15px;
+}
+#error{
+    color: #f0f0f0;
+     font-size: 15px;
+}
+
+fieldset{
+    width: 300px;
+    margin: auto;
+    margin-bottom: 2em;
+    display:block;
+}
+h1{
+    text-shadow: 0 1px 0 white;
+}
+p{
+    text-align: center;
+}
+
+
+.footer_resize {
+        margin: 50px 0 0 0;
+	padding: 0px 120px 30px 0;
+	width:930px;
+	color:#fcfdfe;
+        height: 15px;
+        background-color: #bbb;
+	font:normal 12px Arial, Helvetica, sans-serif;
+	border-top:1px solid;
+}
+
+
+.footer {
+	margin: 0;
+	margin:0 auto;
+}
+.footer p {
+	margin:0;
+	padding:15px 0;
+	line-height:normal;
+	color:#000;
+}
+.footer a {
+	color:#000;
+	padding-top: 10px;
+	text-decoration:underline;
+}
+.footer a:hover {
+	text-decoration:none;
+        color:#fcfdfe;
+}
+.footer .lf {
+        font-style: italic;	
+        float:left;
+        margin-left: 20px
+        
+}
+.footer .rf {
+        font-style: italic;
+	float:right;
+}
+
+p.response {
+	text-align:center;
+	color:#F00;
+	font:normal 11px Georgia, "Times New Roman", Times, serif;
+	line-height:1.8em;
+	width:auto;
+}
+
+#container fieldset
+{
+    background: #f0f0f0;
+}
+
